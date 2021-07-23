@@ -1,0 +1,7 @@
+embeding_features/
+test_images/
+weights/
+*.jpg
+*.png
+non_sense.py
+*.npy
